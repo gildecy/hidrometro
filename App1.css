@@ -1,0 +1,32 @@
+.titulo1 {
+  font-size: 2em;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+
+.camp1, .camp2 {
+  margin: 10px;
+  padding: 5px;
+  font-size: 1em;
+  width: 100px;
+}
+
+.bt {
+  padding: 10px;
+  font-size: 1em;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.totalagua {
+  font-size: 1.5em;
+  text-align: center;
+  margin-top: 20px;
+}
+.titulo1 {
+  font-family: 'verdana';
+}
